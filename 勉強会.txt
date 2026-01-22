@@ -1,3 +1,5 @@
 Figmaデザイン
 https://www.figma.com/design/RYLNB7Qr14EFKA0EKyKKoJ/-LOGI?node-id=17-346&t=DZJJoH4zP6ael1Kj-0
 
+Figma MCP
+claude mcp add --transport http figma https://mcp.figma.com/mcp
